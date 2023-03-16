@@ -46,7 +46,7 @@ import defPac.UnderflowException;
 /**
 * Implements a binary heap.
 * Note that all "matching" is based on the compareTo method.
-* @author Mark Allen Weiss
+* @author Justin Tobiason
 */
 public class BinaryHeap<AnyType extends Comparable<? super AnyType>>
 {
